@@ -42,7 +42,7 @@ First of all, you need to install PyTorch:
 $ pip install torch
 ```
 
-Next, you need to [download]() a module consisting of model.py and a folder with model parameters, and then insert these files into your project.
+Next, you need to [download](https://github.com/Ostrill/IRPNet/releases/tag/v1.0.0) a module consisting of model.py and a folder with model parameters, and then insert these files into your project.
 
 After that you can use IRPNet:
 
