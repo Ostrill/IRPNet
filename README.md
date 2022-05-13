@@ -39,7 +39,7 @@ Metrics calculated for a dataset of more than 200'000 KinoPoisk reviews:
 First of all, you need to install PyTorch:
 
 ```bash
-$ pip install torch
+$ pip3 install torch
 ```
 
 Next, you need to [download](https://github.com/Ostrill/IRPNet/releases/tag/v1.0.0) a module consisting of model.py and a folder with model parameters, and then insert these files into your project.
