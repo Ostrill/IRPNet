@@ -19,7 +19,7 @@ There are two folders in repository. One is for working with data and training t
 ![](https://github.com/Ostrill/IRPNet/blob/master/assets/architecture.png?raw=true)
 
 ## Quality metrics
-Metrics calculated for a dataset of more than 200'000 KinoPoisk reviews:
+Metrics calculated for a dataset of more than 200K KinoPoisk reviews:
 |    Metric | Value              |
 |----------:|:-------------------|
 |  Accuracy | 0.9134621659162305 |
@@ -28,11 +28,12 @@ Metrics calculated for a dataset of more than 200'000 KinoPoisk reviews:
 |  F1-score | 0.9487919240454142 |
 
 ## Technologies
-- [Kinopoisk Api Unofficial](https://kinopoiskapiunofficial.tech/) - parsing reviews
-- [Pandas](https://pandas.pydata.org/) - working with data
-- [Matplotlib](https://matplotlib.org/) - visualization
-- [PyTorch](https://pytorch.org/) - neural network
-- [Gensim](https://radimrehurek.com/gensim/) - Word2Vec model
+- [Kinopoisk Api Unofficial](https://kinopoiskapiunofficial.tech/) `[2.0.1]` - parsing reviews
+- [Pandas](https://pandas.pydata.org/) `[1.4.2]` - working with data
+- [Matplotlib](https://matplotlib.org/) `[3.4.3]` - visualization
+- [PyTorch](https://pytorch.org/) `[1.11.0]` - neural network
+- [Gensim](https://radimrehurek.com/gensim/) `[4.2.0]` - Word2Vec model
+- [Jupyter Notebook](https://jupyter.org/) - interactive environment for Python
 - [Google Colab](https://colab.research.google.com/) - GPU training
 
 ## Usage
