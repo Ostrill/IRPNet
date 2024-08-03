@@ -1,0 +1,10 @@
+.DS_Store
+.ipynb_checkpoints
+.idea
+__pycache__
+data processing/embedding.pt
+data processing/filtred_reviews.pkl
+data processing/reviews.csv
+data processing/token_dict.pkl
+env
+venv

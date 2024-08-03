@@ -1,6 +1,0 @@
-__pycache__
-.ipynb_checkpoints
-embedding.pt
-filtred_reviews.pkl
-reviews.csv
-token_dict.pkl
